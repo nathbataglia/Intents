@@ -3,6 +3,9 @@ package br.edu.scl.ifsp.ads.intents
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.activity.result.ActivityResult
+import androidx.activity.result.ActivityResultCallback
+import androidx.activity.result.contract.ActivityResultContracts
 import br.edu.scl.ifsp.ads.intents.databinding.ActivityMainBinding
 import br.edu.scl.ifsp.ads.intents.databinding.ActivityParametroBinding
 
